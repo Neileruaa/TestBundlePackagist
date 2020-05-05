@@ -1,0 +1,13 @@
+{
+    "name": "aurelien/create-client-bundle",
+    "description": "my first bundle on packagist TEST",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "aurelien",
+            "email": "aureliendrey@gmail.com"
+        }
+    ],
+    "require": {}
+}
