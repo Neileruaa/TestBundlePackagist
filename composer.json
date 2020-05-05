@@ -17,5 +17,5 @@
             "Aurel\\CreateClientBundle\\" : "src/"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
