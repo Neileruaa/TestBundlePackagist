@@ -9,5 +9,13 @@
             "email": "aureliendrey@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php" : "^7.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Aurel\\CreateClientBundle\\" : "src/"
+        }
+    },
+    "minimum-stability": "dev"
 }
